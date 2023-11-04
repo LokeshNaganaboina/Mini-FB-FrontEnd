@@ -1,0 +1,8 @@
+.postcard-btn-div {
+  display: flex;
+}
+
+.postcard-button {
+  width: auto;
+  margin-right: 10px;
+}
